@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "outDir": "bin",
+    "target": "ES2022",
+    "module": "Node16",
+    "moduleResolution": "Node16",
+    "sourceMap": true,
+    "pretty": true,
+    "noFallthroughCasesInSwitch": true,
+    "noImplicitReturns": true,
+    "skipDefaultLibCheck": true,
+    "skipLibCheck": true,
+    "allowSyntheticDefaultImports": true,
+    "forceConsistentCasingInFileNames": true
+  },
+  "include": ["**/src/*.ts"],
+  "exclude": ["node_modules"]
+}

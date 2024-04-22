@@ -1,0 +1,14 @@
+{
+    "name": "tmp.tnFrxKv4lZ",
+    "main": "index.js",
+    "devDependencies": {
+        "@types/node": "^20.12.7"
+    },
+    "dependencies": {
+        "@pulumi/aws": "^6.0.0",
+        "@pulumi/awsx": "^2.0.2",
+        "@pulumi/pulumi": "^3.113.0",
+        "tsx": "^4.7.2",
+        "typescript": "^5.4.5"
+    }
+}

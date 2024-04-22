@@ -1,0 +1,10 @@
+name: tmp.tnFrxKv4lZ
+runtime:
+  name: nodejs
+  options:
+    typescript: false
+description: A minimal AWS TypeScript Pulumi program
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: aws-typescript
